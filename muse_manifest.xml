@@ -1,0 +1,168 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="sugarcoma.com" resolutions="1x" timestamp="1481058258646">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_contact.css" crc="3972510239" ref="contact"/>
+    <file name="master_about-us.css" crc="533926520" ref="about-us"/>
+    <file name="master_menu.css" crc="520657229" ref="menu"/>
+    <file name="master_index.css" crc="92151135" ref="index"/>
+    <file name="index.css" crc="288304284" ref="index"/>
+    <file name="contact.css" crc="3869493700" ref="contact"/>
+    <file name="about-us.css" crc="3866889051" ref="about-us"/>
+    <file name="menu.css" crc="147154410" ref="menu"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index:about-us:contact:menu"/>
+    <file name="museutils.js" crc="183364071" ref="index:about-us:contact:menu"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="index:about-us:contact:menu"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact:menu"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index:about-us:contact:menu"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about-us:contact:menu"/>
+    <file name="webpro.js" crc="3803554875" ref="contact:menu"/>
+    <file name="form_check.php" crc="277267350" ref="contact"/>
+    <file name="form_throttle.php" crc="3908387251" ref="contact"/>
+    <file name="form_process.php" crc="24249335" ref="contact"/>
+    <file name="form-u1475.php" crc="421422872" ref="contact"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="menu"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="menu"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="menu"/>
+    <file name="touchswipe.js" crc="4038331989" ref="menu"/>
+  </folder>
+  <folder name="images">
+    <file name="sugarcoma.svg" crc="3971439957" ref="index:about-us:contact:menu"/>
+    <file name="sugarcoma_poster_.png" crc="368535183" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about-us:contact:menu"/>
+    <file name="u141.png" crc="4095966471" ref="index"/>
+    <file name="u141-r.png" crc="415170108" ref="index"/>
+    <file name="u379.png" crc="4015391976" ref="index"/>
+    <file name="u379-r.png" crc="506734030" ref="index"/>
+    <file name="u149.png" crc="202886930" ref="index"/>
+    <file name="u149-r.png" crc="3991587238" ref="index"/>
+    <file name="u158.png" crc="3771068606" ref="index"/>
+    <file name="u158-r.png" crc="180377413" ref="index"/>
+    <file name="foodporn_drunkingummybear.jpg" crc="4055853568" seo="true" ref="index"/>
+    <file name="u253-4.png" crc="4196216755" ref="index"/>
+    <file name="drink1.png" crc="4248137793" seo="true" ref="index"/>
+    <file name="u298-4.png" crc="4184269960" ref="index"/>
+    <file name="drink2.png" crc="521117534" seo="true" ref="index"/>
+    <file name="u296-4.png" crc="163909334" ref="index"/>
+    <file name="drink3.png" crc="4272884279" seo="true" ref="index"/>
+    <file name="u295-4.png" crc="3812196771" ref="index"/>
+    <file name="drink4.png" crc="3813306532" seo="true" ref="index"/>
+    <file name="u299-4.png" crc="4279526172" ref="index"/>
+    <file name="u324-4.png" crc="3979826986" ref="index"/>
+    <file name="barback.jpg" crc="3759234747" seo="true" ref="index:contact:menu"/>
+    <file name="u1679-4.png" crc="68947002" ref="index"/>
+    <file name="u1681.png" crc="48405954" ref="index"/>
+    <file name="u1681-r.png" crc="3905786881" ref="index"/>
+    <file name="u1431-4.png" crc="436081083" ref="index"/>
+    <file name="u1435-4.png" crc="111627352" ref="index"/>
+    <file name="u1437-4.png" crc="4159982024" ref="index"/>
+    <file name="u1432-11.png" crc="4122900864" ref="index"/>
+    <file name="fb.png" crc="4275020165" seo="true" ref="index:about-us:contact:menu"/>
+    <file name="ig.png" crc="3759997832" seo="true" ref="index:about-us:contact:menu"/>
+    <file name="twit.png" crc="468676672" seo="true" ref="index:about-us:contact:menu"/>
+    <file name="yt.png" crc="326913253" seo="true" ref="index:about-us:contact:menu"/>
+    <file name="u1433-4.png" crc="445855925" ref="index"/>
+    <file name="u1434-9.png" crc="4056874078" ref="index"/>
+    <file name="u1436_states.png" crc="366670041" ref="index"/>
+    <file name="u1436_states-r.png" crc="366670041" ref="index"/>
+    <file name="u617.png" crc="4095966471" ref="about-us"/>
+    <file name="u617-r.png" crc="415170108" ref="about-us"/>
+    <file name="u636.png" crc="4015391976" ref="about-us"/>
+    <file name="u636-r.png" crc="506734030" ref="about-us"/>
+    <file name="u623.png" crc="202886930" ref="about-us"/>
+    <file name="u623-r.png" crc="3991587238" ref="about-us"/>
+    <file name="u632.png" crc="3771068606" ref="about-us"/>
+    <file name="u632-r.png" crc="180377413" ref="about-us"/>
+    <file name="aboutback.jpg" crc="282078027" seo="true" ref="about-us"/>
+    <file name="layersofhappiness_rainbowpretzelmilkshake.jpg" crc="3855681647" seo="true" ref="about-us"/>
+    <file name="u1351-4.png" crc="3395357" ref="about-us"/>
+    <file name="u1347-7.png" crc="4010677446" ref="about-us"/>
+    <file name="u1353-4.png" crc="59643106" ref="about-us"/>
+    <file name="u1352-4.png" crc="4179282277" ref="about-us"/>
+    <file name="20151005-cupcake-recipe-roundup-01.jpg" crc="4195970912" seo="true" ref="about-us"/>
+    <file name="u597-4.png" crc="436081083" ref="about-us"/>
+    <file name="u598-4.png" crc="3781579242" ref="about-us"/>
+    <file name="u594-4.png" crc="455240591" ref="about-us"/>
+    <file name="u1368-4.png" crc="4039528745" ref="about-us"/>
+    <file name="u596-4.png" crc="366670041" ref="about-us"/>
+    <file name="u1646-11.png" crc="4122900864" ref="about-us"/>
+    <file name="u1647-9.png" crc="4056874078" ref="about-us"/>
+    <file name="u683.png" crc="4095966471" ref="contact"/>
+    <file name="u683-r.png" crc="415170108" ref="contact"/>
+    <file name="u690.png" crc="4015391976" ref="contact"/>
+    <file name="u690-r.png" crc="506734030" ref="contact"/>
+    <file name="u660.png" crc="202886930" ref="contact"/>
+    <file name="u660-r.png" crc="3991587238" ref="contact"/>
+    <file name="u668.png" crc="3771068606" ref="contact"/>
+    <file name="u668-r.png" crc="180377413" ref="contact"/>
+    <file name="u1521-5.png" crc="3802449333" ref="contact"/>
+    <file name="u1486.png" crc="93588539" ref="contact"/>
+    <file name="u1486-ferr.png" crc="4129617343" ref="contact"/>
+    <file name="u1492.png" crc="4134991338" ref="contact"/>
+    <file name="u1492-ferr.png" crc="4026796879" ref="contact"/>
+    <file name="u1480-17.png" crc="387342402" ref="contact"/>
+    <file name="u1480-17-r.png" crc="4145971236" ref="contact"/>
+    <file name="u1480-17-m.png" crc="3852047642" ref="contact"/>
+    <file name="u1480-17-fs.png" crc="330491794" ref="contact"/>
+    <file name="u1484.png" crc="3812505300" ref="contact"/>
+    <file name="u1484-ferr.png" crc="122569068" ref="contact"/>
+    <file name="u1519.png" crc="371075468" ref="contact"/>
+    <file name="u1519-ferr.png" crc="3829227865" ref="contact"/>
+    <file name="u1522-4.png" crc="404995626" ref="contact"/>
+    <file name="u1525-4.png" crc="4201709800" ref="contact"/>
+    <file name="u1528-4.png" crc="4227367694" ref="contact"/>
+    <file name="u1527-18.png" crc="4150910057" ref="contact"/>
+    <file name="u1452-4.png" crc="436081083" ref="contact"/>
+    <file name="u1456-4.png" crc="455240591" ref="contact"/>
+    <file name="u1458-4.png" crc="4039528745" ref="contact"/>
+    <file name="u1644-11.png" crc="4122900864" ref="contact"/>
+    <file name="u1457-4.png" crc="366670041" ref="contact"/>
+    <file name="u1454-4.png" crc="3781579242" ref="contact"/>
+    <file name="u1645-9.png" crc="4056874078" ref="contact"/>
+    <file name="u441.png" crc="4095966471" ref="menu"/>
+    <file name="u441-r.png" crc="415170108" ref="menu"/>
+    <file name="u448.png" crc="4015391976" ref="menu"/>
+    <file name="u448-r.png" crc="506734030" ref="menu"/>
+    <file name="u455.png" crc="202886930" ref="menu"/>
+    <file name="u455-r.png" crc="3991587238" ref="menu"/>
+    <file name="u466.png" crc="3771068606" ref="menu"/>
+    <file name="u466-r.png" crc="180377413" ref="menu"/>
+    <file name="u572-4.png" crc="4226018133" ref="menu"/>
+    <file name="u573-82.png" crc="266644499" ref="menu"/>
+    <file name="cannellavita_nutellacupcake.jpg" crc="4076551661" seo="true" ref="menu"/>
+    <file name="foodimentary_strawberrycarmelsundae.jpg" crc="246404423" seo="true" ref="menu"/>
+    <file name="layersofhappiness_rainbowpretzelmilkshake271x406.jpg" crc="157703569" seo="true" ref="menu"/>
+    <file name="pixabay_cake pop.jpg" crc="4162324020" seo="true" ref="menu"/>
+    <file name="marthastewart_tropicaloasissundae.jpg" crc="4120529854" seo="true" ref="menu"/>
+    <file name="pixabay_brownies.jpg" crc="3792175817" seo="true" ref="menu"/>
+    <file name="pixabay_cherryhazelnutcrunch.jpg" crc="3969927805" seo="true" ref="menu"/>
+    <file name="saltycanary_tipsycookiemilkshake.jpg" crc="4281059301" seo="true" ref="menu"/>
+    <file name="cannellavita_nutellacupcake215x204.jpg" crc="41787556" seo="true" ref="menu"/>
+    <file name="foodimentary_strawberrycarmelsundae-crop-u1050.jpg" crc="4028260706" ref="menu"/>
+    <file name="foodimentary_strawberrycarmelsundae-crop-u1122.jpg" crc="4028260706" ref="menu"/>
+    <file name="layersofhappiness_rainbowpretzelmilkshake-crop-u1131.jpg" crc="4243366429" ref="menu"/>
+    <file name="pixabay_cake pop230x172.jpg" crc="3899229645" seo="true" ref="menu"/>
+    <file name="marthastewart_tropicaloasissundae-crop-u1149.jpg" crc="3860032692" ref="menu"/>
+    <file name="pixabay_brownies261x172.jpg" crc="402062973" seo="true" ref="menu"/>
+    <file name="pixabay_cherryhazelnutcrunch215x179.jpg" crc="4212135839" seo="true" ref="menu"/>
+    <file name="saltycanary_tipsycookiemilkshake-crop-u1181.jpg" crc="4132845753" ref="menu"/>
+    <file name="layersofhappiness_rainbowpretzelmilkshake-crop-u1059.jpg" crc="4243366429" ref="menu"/>
+    <file name="back.png" crc="3991480727" ref="menu"/>
+    <file name="back2.png" crc="21429329" ref="menu"/>
+    <file name="forward.png" crc="152359956" ref="menu"/>
+    <file name="forward2.png" crc="119227130" ref="menu"/>
+    <file name="loading.gif" crc="3815509949" ref="menu"/>
+    <file name="u1396-4.png" crc="3884863397" ref="menu"/>
+    <file name="u1398-4.png" crc="3781579242" ref="menu"/>
+    <file name="u1400-4.png" crc="455240591" ref="menu"/>
+    <file name="u1402-4.png" crc="4039528745" ref="menu"/>
+    <file name="u1401-4.png" crc="366670041" ref="menu"/>
+    <file name="u1649-11.png" crc="4122900864" ref="menu"/>
+    <file name="u1650-9.png" crc="4056874078" ref="menu"/>
+  </folder>
+  <file name="index.html" crc="276514311" seo="true" mt="1481056732973" redirect="true"/>
+  <file name="about-us.html" crc="4015165049" seo="true" mt="1481056639617" redirect="true"/>
+  <file name="contact.html" crc="3805554452" seo="true" mt="1480640571079" redirect="true"/>
+  <file name="menu.html" crc="3979605816" seo="true" mt="1481056650517" redirect="true"/>
+</manifest>
